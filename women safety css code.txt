@@ -1,0 +1,13 @@
+
+*CSS*
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+.hero {
+  background-color: #e3342f;
+}
+section {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
